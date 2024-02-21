@@ -6,8 +6,8 @@ This is a simple length converter GUI application built using Tkinter in Python.
   4. Sqft to Acres/Hectres
 # How to Use
   1. Run the script.
-  2. Select the conversion type
-  3. Enter the value you want to convert.
+  2. Enter the number you want to convert.
+  3. Select the conversion type
   4. Click on the "Convert" button =>The result will be displayed below.
 # Requirements
   1. Python 3.0
